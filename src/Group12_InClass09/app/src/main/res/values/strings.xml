@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Group12_InClass09</string>
+    <string name="email">Email</string>
+    <string name="email_val" />
+    <string name="password">Password</string>
+    <string name="password_val" />
+    <string name="login">Login</string>
+    <string name="title_activity_chat_screens">ChatScreens</string>
+</resources>
